@@ -1,4 +1,4 @@
-# Oh-my-zsh Theme - type0_zsh-theme
+# Oh-my-zsh Theme - type0
 My personal oh my zsh theme inspired by classyTouch by yarisgutierrez.
 
 ![tyep0](https://raw.githubusercontent.com/MikereDD/type0_zsh-theme/master/type0.png)
