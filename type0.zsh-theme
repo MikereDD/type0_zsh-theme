@@ -1,7 +1,7 @@
 # ZSH Theme - type0
 # Author: Mike Redd <mikeredd@protonmail.com>
 # this zsh theme requires 256 color enabled terminal
-# Preview - 
+# Preview - https://raw.githubusercontent.com/MikereDD/type0_zsh-theme/master/type0.png
 # based on classyTouch by yarisgutierrez.
 #
 

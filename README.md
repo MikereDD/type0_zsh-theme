@@ -1,7 +1,7 @@
 # Oh-my-zsh Theme - type0_zsh-theme
 My personal oh my zsh theme inspired by classyTouch by yarisgutierrez.
 
-![tyep0]()
+![tyep0](https://raw.githubusercontent.com/MikereDD/type0_zsh-theme/master/type0.png)
 
 ## Installation
 
